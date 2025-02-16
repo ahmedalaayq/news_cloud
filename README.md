@@ -17,7 +17,7 @@ News Cloud is a modern and sleek mobile application that provides users with the
 ## 🖼️ Screenshots
 | Home Screen | News Details | WebView |
 |------------|-------------|---------|
-| ![Screen 1](assets/screens/screen1.png) | ![Screen 2](assets/screens/screen2.png) | ![Screen 3](assets/screens/screen3.png) |
+| ![Screen 1](assets/screens/screen2.png) | ![Screen 2](assets/screens/screen1.png) | ![Screen 3](assets/screens/screen3.png) |
 
 ## 🔧 Installation
 1. Clone the repository:
