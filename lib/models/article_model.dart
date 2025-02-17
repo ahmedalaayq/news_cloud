@@ -12,7 +12,7 @@ class ArticleModel {
 
   factory ArticleModel.fromJson(Map<String, dynamic> json) {
     return ArticleModel(
-        image: json['urlToImage'],
+        image: json['image'],
         title: json['title'],
         subtitle: json['description'],
         url: json['url']);
