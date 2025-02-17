@@ -8,11 +8,9 @@ News Cloud is a modern and sleek mobile application that provides users with the
 ## 🚀 Features
 - 📰 **Latest News**: Get real-time news updates from trusted sources.
 - 🌍 **Global Coverage**: Access news from various categories like business, technology, sports, and more.
-- 🔍 **Search Functionality**: Easily find news on topics that interest you.
 - 📱 **WebView Integration**: Read full articles directly inside the app.
 - 🎨 **Awesome UI/UX**: Smooth, modern, and visually appealing design.
 - 📡 **API-Powered**: Fetches news dynamically using a powerful API.
-- 🌙 **Dark Mode Support**: Enjoy reading news in a dark theme.
 
 ## 🖼️ Screenshots
 | Home Screen | News Details | WebView |
