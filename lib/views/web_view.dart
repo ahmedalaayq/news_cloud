@@ -16,7 +16,7 @@ class _WebViewScreenState extends State<WebViewScreen> {
   void initState() {
     super.initState();
     controller = WebViewController()
-      ..setJavaScriptMode(JavaScriptMode.disabled) // تمكين الجافا سكريبت
+      ..setJavaScriptMode(JavaScriptMode.disabled) 
       ..loadRequest(Uri.parse(widget.url));
   }
 
