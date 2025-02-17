@@ -11,12 +11,7 @@ class NewsService {
       List<dynamic> articles = jsonData['articles'];
       List<ArticleModel> articlesList = [];
       articlesList = articles
-          .map((e) => ArticleModel(
-                image: e['urlToImage'],
-                title: e['title'],
-                subtitle: e['description'],
-                url: e['url'],
-              ))
+          .map((e) => ArticleModel.fromJson(e))
           .toList();
       return articlesList;
     } catch (e) {
